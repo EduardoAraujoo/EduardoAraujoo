@@ -5,7 +5,7 @@
 
 ![Eduardo Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoAraujoo&show_icons=true&theme=radical)
 
-## Skills ->
+## Data Science & Machine Learning Skills ->
 <div style="display: inline_block"><br>
 
 <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -25,4 +25,4 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAraujoo&hide_progress=false)](https://github.com/EduardoAraujoo/github-readme-stats)
+
