@@ -35,10 +35,9 @@
 - Machine Learning supervisionado e não supervisionado  
 - Modelagem estatística  
 - Análise exploratória de dados (EDA)  
-- Visualização de dados  
-- Engenharia de atributos (Feature Engineering)  
+- Visualização de dados   
 - Otimização e avaliação de modelos  
-- Aplicação de IA em problemas do setor público  
+- Aplicação de IA em problemas reais 
 
 ---
 
@@ -48,7 +47,7 @@
 🔹 Modelos preditivos com Scikit-learn  
 🔹 Análise de dados utilizando Python e SQL  
 🔹 Estudos de algoritmos de classificação e regressão  
-🔹 Projetos acadêmicos envolvendo modelagem relacional e normalização de bancos de dados  
+🔹 Projetos acadêmicos envolvendo modelagem relacional e normalização de bancos de dados
 
 ---
 
