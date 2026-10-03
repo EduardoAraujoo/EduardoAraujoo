@@ -1,64 +1,134 @@
-# 👋 Olá! Eu sou Eduardo Araújo  
+# 👋 Hi, I'm Eduardo Araújo
 
-🎓 Estudante de Sistemas de Informação na Universidade Federal de Uberlândia (UFU)  
-📊 Foco em Ciência de Dados, Machine Learning e Engenharia de Dados  
-🚀 Interessado em Inteligência Artificial aplicada a problemas reais  
+### Growth Engineer | AI Products & Automation | Marketing Analytics & CRO
 
----
+I connect **Growth, Data and Engineering** to build AI-powered products, automate workflows and turn business opportunities into measurable results.
 
-## 🧠 Data Science & Machine Learning Stack
-
-<div style="display: inline_block"><br>
-
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img align="center" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-
-<img align="center" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-
-<img align="center" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<img align="center" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-<img align="center" src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white">
-
-</div>
+💼 Growth Operations Manager at **Grupo Fênix**  
+🎓 Information Systems — **Universidade Federal de Uberlândia (UFU)**  
+🌎 Based in Brazil  
+⚙️ **3+ years of experience** across analytics, data science and growth  
 
 ---
 
-## 📊 Áreas de Interesse
+## 🚀 What I Build
 
-- Machine Learning supervisionado e não supervisionado  
-- Modelagem estatística  
-- Análise exploratória de dados (EDA)  
-- Visualização de dados   
-- Otimização e avaliação de modelos  
-- Aplicação de IA em problemas reais 
-
----
-
-## 🚀 Projetos em Destaque
-
-🔹 Dashboard interativo com dados públicos  
-🔹 Modelos preditivos com Scikit-learn  
-🔹 Análise de dados utilizando Python e SQL  
-🔹 Estudos de algoritmos de classificação e regressão  
-🔹 Projetos acadêmicos envolvendo modelagem relacional e normalização de bancos de dados
+- **AI Products:** applications for VSL copy production and personalized product mockups.
+- **Growth Systems:** internal tools, funnel experiments and conversion optimization.
+- **Workflow Automation:** AI agents, n8n workflows and API integrations.
+- **Analytics Platforms:** revenue reporting, affiliate intelligence and executive dashboards.
+- **Predictive Models:** churn, customer lifetime value, forecasting and refund risk.
 
 ---
 
-## 📚 Formação
+## 🛠️ Technical Stack
 
-🎓 Sistemas de Informação — Universidade Federal de Uberlândia (UFU)  
+### AI & Automation
+
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-111827?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+
+### Development & Integrations
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Data & Analytics
+
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-111827?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 
 ---
 
-## 📈 Estatísticas
+## 💡 Selected Projects
 
-![Eduardo Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoAraujoo&show_icons=true&theme=radical)
+### ✍️ AI VSL Copy Platform
 
+Built and deployed an internal LLM-powered platform for video sales letter copy production.
 
+- Owned frontend, backend, integrations and deployment.
+- Reduced production time from **5 days to 1 day — an 80% reduction**.
+- Currently in active internal use.
+
+### 🎨 AI Product Mockup Platform
+
+Built and deployed an AI application for personalized product mockups and company design assets.
+
+- Delivered the complete application, from interface to deployment.
+- Connected AI capabilities to an internal creative workflow.
+- Currently in active internal use.
+
+**Technology across both AI platforms:** React, Python, FastAPI, PostgreSQL, LLMs, RAG, MCP and fine-tuning.
+
+### 📊 Growth Intelligence Platform
+
+Developed a full-stack analytics platform to centralize revenue, affiliate performance and refund data.
+
+- **25,000+ orders**
+- **450+ affiliates**
+- **18 product families**
+- Supports partner retention, renegotiation and performance decisions.
+
+**Stack:** FastAPI, PostgreSQL and React.
+
+### 🔎 Refund Radar
+
+Built a production model for refund and chargeback risk.
+
+- Combined **LightGBM, hierarchical Beta-Binomial modeling and survival analysis**.
+- Reduced day-7 forecast MAE from **0.089 to 0.051**.
+- Achieved approximately **43% lower forecast error** versus the previous baseline.
+
+---
+
+## 📈 Business Impact
+
+| Area | Result |
+| --- | --- |
+| **Conversion optimization** | Increased AOV from **US$290 to US$400 (+38%)** |
+| **AI copy production** | Reduced production time by **80%** |
+| **Acquisition analytics** | Supported decisions across **US$1.5M+ in monthly media spend** |
+| **Data quality** | Fixed an ingestion defect reporting **150 chargebacks instead of 2** |
+| **Engineering quality** | Maintain **130+ automated tests** for business logic |
+
+---
+
+## 🧠 Core Expertise
+
+- Growth Engineering & Marketing Analytics
+- Conversion Rate Optimization (CRO)
+- A/B Testing & Causal Inference
+- Customer Segmentation & Cohort Analysis
+- Retention, Churn & Lifetime Value Modeling
+- Revenue Intelligence & Affiliate Analytics
+- Generative AI & Workflow Automation
+- API Integration & Analytics Engineering
+
+---
+
+## 🎓 Education & Certifications
+
+**Information Systems**  
+Universidade Federal de Uberlândia — UFU
+
+- **Meta:** Marketing Analytics Professional Certificate
+- **Google:** Go Beyond the Numbers — Translate Data into Insights
+
+---
+
+> I analyze the opportunity, build the solution, test it and measure what changes after launch.
